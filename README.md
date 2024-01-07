@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Fakhri Yusuf Alfiansyah, a dedicated student o
 ### Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhriyalfians alt=fakhriyalfians /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriyalfians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriyalfians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=javascript,css,scss,html" height="150" alt="languages graph"  />
 
 ### Let's connect!
 
